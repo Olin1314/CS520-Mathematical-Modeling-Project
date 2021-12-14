@@ -23,4 +23,3 @@ Based on the codes, a priority list for boosting home value should contain the f
 
 We can get the final version via reading  **Project_Home Values_Olin.pdf**. 
 
-The final report is **Final Report_Olin.pdf**.
